@@ -20,7 +20,7 @@ in your project.
 
 ## Usage
 
-To use zita-rev1, include the *.cpp* and *.h* files this repository in 
+To use zita-rev1, include the *.cpp* and *.h* files from the *source* folder in 
 your project (VS, XCode, JUCE, Makefile, etc.).
 
 Include the reverb header in your source file:
